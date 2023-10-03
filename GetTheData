@@ -1,5 +1,0 @@
-url = "https://en.wikipedia.org/wiki/List_of_helicopter_prison_escapes"
-data = data_from_url(url)
-
-for row in data[:3]:
-    print(row)
